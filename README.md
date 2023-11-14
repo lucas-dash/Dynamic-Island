@@ -11,6 +11,6 @@
 
 - [Spacecode](https://twitter.com/spacecode_)
 
-## Programmers Notion Template
+## Notion Template for programmers
 
 - [yourSpaceCode](https://yourspacecode.gumroad.com/)
