@@ -7,9 +7,10 @@
 - Shadcn UI
 - Framer Motion
 
-## Follow me on twitter
+## Follow me
 
-- [Spacecode](https://twitter.com/spacecode_)
+- on [twitter](https://twitter.com/spacecode_)
+- on [tiktok](https://www.tiktok.com/@spacecode_)
 
 ## Notion Template for programmers
 
