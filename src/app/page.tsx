@@ -8,12 +8,12 @@ export default function Home() {
   return (
     <>
       <Navbar />
-      <main className="mt-[calc(16px+56px)] h-[calc(100vh-72px)]">
+      <main className="mt-[calc(16px+56px)] ">
         <Hero />
         <About />
         <Skills />
-        <Footer />
       </main>
+      <Footer />
     </>
   );
 }
