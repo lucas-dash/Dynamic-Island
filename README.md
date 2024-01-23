@@ -1,17 +1,20 @@
-# Dynamic Island Feature
+# Dynamic Island
+
+- Dynamic Island is a responsive navbar feature that you can use on your own website.
+
+## Feature
+
+- Dynamic Navbar
+- Responsive Design
+- Shadcn UI componets
+- Tailwind Css
+
+- try it (Dynamic Island)[https://dynamic-island-self.vercel.app/]
 
 ## Tech Stack
 
-- Nextjs
-- Tailwindcss
+- Next.js
+- Typescript
+- Tailwind Css
 - Shadcn UI
 - Framer Motion
-
-## Follow me
-
-- on [twitter](https://twitter.com/spacecode_)
-- on [tiktok](https://www.tiktok.com/@spacecode_)
-
-## Notion Template for programmers
-
-- [yourSpaceCode](https://yourspacecode.gumroad.com/)
