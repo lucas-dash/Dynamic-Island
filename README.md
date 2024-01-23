@@ -1,6 +1,6 @@
 # Dynamic Island
 
-- Dynamic Island is a responsive navbar feature that you can use on your own website.
+ Dynamic Island is a responsive navbar feature that you can use on your own website. Try it [Dynamic Island](https://dynamic-island-self.vercel.app/)
 
 ## Feature
 
@@ -8,8 +8,6 @@
 - Responsive Design
 - Shadcn UI componets
 - Tailwind Css
-
-- try it (Dynamic Island)[https://dynamic-island-self.vercel.app/]
 
 ## Tech Stack
 
